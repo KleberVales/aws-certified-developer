@@ -48,6 +48,12 @@
 
 ### Implement authentication and/or authorization for AWS applications and services.
 
+- IAM & Identity Fundamentals (start here — everything else depends on this)
+  * Configuring programmatic access to AWS (access keys, CLI profiles, instance profiles)
+  * Making authenticated calls to AWS services (SigV4 signing)
+  * Assuming IAM roles (sts:AssumeRole, role chaining)
+  * Defining permissions for IAM principals (policies: identity-based, resource-based, boundaries)
+
 ## 3. Implantação 
 
 ## 4. Solução de problemas e otimização 
