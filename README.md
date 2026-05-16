@@ -135,6 +135,14 @@
 
 ### Instrument code for observability
 
+| Sub-block | Topics |
+|-----------|--------|
+| Foundations | Logging vs monitoring vs observability (the three pillars: logs, metrics, traces), effective logging strategy for application behavior and state, structured logging for application events and user actions | 
+| Tracing | Implementing distributed tracing with AWS X-Ray (segments, subsegments, service maps), adding annotations and metadata to traces | 
+| Alerting & Health | | Emitting custom metrics from code, notification alerts for quota thresholds and deployment completions (CloudWatch Alarms + SNS), configuring readiness probes and application health checks | 
+
+💡 X-Ray is heavily tested — know the difference between annotations (indexed, filterable) vs metadata (not indexed). Structured logging with JSON is the expected pattern for Lambda.
+
 ### Optimize applications using AWS services and resources
 
 ---
