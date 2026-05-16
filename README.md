@@ -91,6 +91,8 @@
  
 💡 This block is about getting your artifact ready before it ever touches a pipeline. AppConfig is frequently tested — know the difference between a configuration profile and a deployment strategy.
 
+### Testing applications in development environments
+
 - Testing in Development Environments
   * Testing deployed code using AWS tools (SAM CLI sam local invoke, sam local start-api)
   * Writing integration tests and mocking external API dependencies
@@ -98,13 +100,16 @@
   * Deploying application stack updates to existing environments (e.g. SAM deploy to staging)
   * Testing event-driven applications (simulating SQS, SNS, EventBridge payloads)
 
-```
 💡 Heavily tied to Domain 1 (Lambda + event patterns). Know how to craft test event payloads and how SAM local differs from actual Lambda execution.
-```
-
-### Testing applications in development environments
 
 ### Automatizar testes de implantação
+
+- Infrastructure as Code & Environment Management
+
+| Sub-block | Topics |
+|-----------|--------|
+| IaC Templates | AWS SAM templates, CloudFormation templates, updating existing stacks, deploying to multiple environments |
+| Environment Management | Dev / test / prod separation in API Gateway (stages), Lambda aliases and versions, container image tags, Amplify branches, Copilot environments, AppConfig runtime configs for dynamic deployments |
 
 ### Deploy the code using AWS Continuous Integration and Continuous Delivery (CI/CD) services
 
