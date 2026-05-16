@@ -5,3 +5,5 @@
 ## Segurança 
 
 ## Implantação 
+
+## Solução de problemas e otimização 
