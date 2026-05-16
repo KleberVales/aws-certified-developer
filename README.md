@@ -82,6 +82,13 @@
 
 ### Prepare application artifacts for deployment on AWS
 
+- Packaging & Artifact Preparation (foundation — study before anything else)
+  * Managing code module dependencies: environment variables, config files, container images
+  * Directory and file structure for application deployment
+  * Using code repositories in deployment environments (CodeCommit, GitHub)
+  * Matching application requirements to resources (memory, CPU/cores)
+  * Environment-specific configurations using AWS AppConfig (feature flags, config profiles)
+
 ### Testing applications in development environments
 
 ### Automatizar testes de implantação
