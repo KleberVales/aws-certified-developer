@@ -53,6 +53,8 @@
   * Making authenticated calls to AWS services (SigV4 signing)
   * Assuming IAM roles (sts:AssumeRole, role chaining)
   * Defining permissions for IAM principals (policies: identity-based, resource-based, boundaries)
+ 
+- Authentication & Authorization for Applications
 
 ## 3. Implantação 
 
