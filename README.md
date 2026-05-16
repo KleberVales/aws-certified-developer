@@ -14,6 +14,12 @@
   * Messaging services: SQS, SNS, EventBridge
   * EventBridge: event-driven patterns
   * Streaming data: Kinesis Data Streams, Kinesis Firehose
+ 
+- APIs, SDKs, and Code Resilience
+  * Create and maintain APIs (API Gateway: transformations, validation, status codes)
+  * Use AWS SDK and APIs (boto3, AWS SDK for JavaScript, etc.)
+  * Resilient and fault-tolerant code
+  * Retry logic, circuit breaker, error handling for third-party integrations
 
 ## 2. Segurança 
 
