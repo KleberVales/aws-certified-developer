@@ -69,6 +69,15 @@
 | KMS & Key Management | Encryption at rest vs in transit, client-side vs server-side encryption, using KMS keys to encrypt/decrypt, cross-account encryption, key rotation (enable/disable) |
 | Certificates & PKIAWS | Private CA, generating SSL/TLS certificates, generating SSH keys for development |
 
+### Managing sensitive data in application code
+
+- Sensitive Data Management in Code
+  * Data classification concepts: PII, PHI, and regulatory implications
+  * Encrypting environment variables in Lambda (KMS + SSM Parameter Store)
+  * Using AWS Secrets Manager and SSM Parameter Store to protect secrets
+  * Sanitizing and masking sensitive data at the application level
+  * Multi-tenant data access patterns (row-level security, tenant isolation strategies)
+
 ## 3. Implantação 
 
 ## 4. Solução de problemas e otimização 
