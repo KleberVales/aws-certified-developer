@@ -98,7 +98,9 @@
   * Deploying application stack updates to existing environments (e.g. SAM deploy to staging)
   * Testing event-driven applications (simulating SQS, SNS, EventBridge payloads)
 
+```
 💡 Heavily tied to Domain 1 (Lambda + event patterns). Know how to craft test event payloads and how SAM local differs from actual Lambda execution.
+```
 
 ### Testing applications in development environments
 
