@@ -88,6 +88,8 @@
   * Using code repositories in deployment environments (CodeCommit, GitHub)
   * Matching application requirements to resources (memory, CPU/cores)
   * Environment-specific configurations using AWS AppConfig (feature flags, config profiles)
+ 
+💡 This block is about getting your artifact ready before it ever touches a pipeline. AppConfig is frequently tested — know the difference between a configuration profile and a deployment strategy.
 
 ### Testing applications in development environments
 
