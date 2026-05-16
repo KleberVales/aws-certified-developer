@@ -131,6 +131,8 @@
 | Logs & Metrics | Querying logs in CloudWatch Logs Insights, interpreting application metrics and traces, implementing custom metrics using CloudWatch EMF (Embedded Metric Format), reviewing application health via dashboards | 
 | Debugging | Debugging code to identify defects, troubleshooting deployment failures using service output logs, debugging service integration failures (Lambda ↔ API Gateway ↔ DynamoDB etc.) |
 
+💡 CloudWatch Logs Insights query syntax appears directly in exam questions — practice writing real queries. EMF is a rising topic: know how it differs from PutMetricData.
+
 ### Instrument code for observability
 
 ### Optimize applications using AWS services and resources
