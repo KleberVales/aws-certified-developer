@@ -44,7 +44,9 @@
 | Armazenamentos especializados | OpenSearch Service |
 | Serialização | JSON, protobuf, persistência |
 
-## 2. Segurança 
+## 2. Security
+
+### Implement authentication and/or authorization for AWS applications and services.
 
 ## 3. Implantação 
 
