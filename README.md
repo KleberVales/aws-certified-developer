@@ -80,6 +80,14 @@
 
 ## 3. Deployment
 
+### Prepare application artifacts for deployment on AWS
+
+### Testing applications in development environments
+
+### Automatizar testes de implantação
+
+### Deploy the code using AWS Continuous Integration and Continuous Delivery (CI/CD) services
+
 ## 4. Solução de problemas e otimização 
 
 ---
