@@ -59,6 +59,15 @@
   * Protecting applications using bearer tokens (JWT, OAuth 2.0 flows)
   * Application-level authorization for fine-grained access control (e.g. ABAC, custom authorizers in API Gateway)
   * Service-to-service authentication in microservices architectures (IAM roles, service accounts, mTLS)
+ 
+### Implementing encryption using AWS services
+
+- Encryption
+
+| Sub-block | Topics |
+|-----------|---------|
+| KMS & Key Management | Encryption at rest vs in transit, client-side vs server-side encryption, using KMS keys to encrypt/decrypt, cross-account encryption, key rotation (enable/disable) |
+| Certificates & PKIAWS | Private CA, generating SSL/TLS certificates, generating SSH keys for development |
 
 ## 3. Implantação 
 
