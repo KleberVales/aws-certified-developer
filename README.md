@@ -122,9 +122,14 @@
 | CI/CD PipelineCode | Commit, CodeBuild, CodeDeploy, CodePipeline — committing code to trigger build/test/deploy actions; orchestrated workflows across environments; labels and branches for version/release management
 | Deployment Strategies | Blue/green, canary, rolling/continuous deployments; application rollbacks using existing strategies; Lambda deployment packages (ZIP vs container image); API Gateway stages and custom domains; Amazon Q Developer for generating automated tests |
 
-## 4. Problem solving and optimization
+## 4. Troubleshooting & Optimization
 
 ### Assist in root cause analysis
+
+| Sub-block | Topics |
+|-----------|--------|
+| Logs & Metrics | Querying logs in CloudWatch Logs Insights, interpreting application metrics and traces, implementing custom metrics using CloudWatch EMF (Embedded Metric Format), reviewing application health via dashboards | 
+| Debugging | Debugging code to identify defects, troubleshooting deployment failures using service output logs, debugging service integration failures (Lambda ↔ API Gateway ↔ DynamoDB etc.) |
 
 ### Instrument code for observability
 
