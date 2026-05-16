@@ -78,7 +78,7 @@
   * Sanitizing and masking sensitive data at the application level
   * Multi-tenant data access patterns (row-level security, tenant isolation strategies)
 
-## 3. Implantação 
+## 3. Implantation 
 
 ## 4. Solução de problemas e otimização 
 
