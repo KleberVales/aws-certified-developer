@@ -145,6 +145,12 @@
 
 ### Optimize applications using AWS services and resources
 
+| Sub-block | Topics |
+|-----------|--------|
+| Lambda Performance | Defining concurrency (reserved vs provisioned), determining minimum memory and compute power, analyzing cold start impact, using application logs to identify performance bottlenecks | 
+| Messaging Optimization | Using SNS subscription filter policies to reduce unnecessary message processing, optimizing SQS batch sizes and visibility timeouts
+| Caching |Caching content based on request headers (API Gateway + CloudFront cache behaviors), application-level caching (ElastiCache, DAX), optimizing resource usage through cache hit strategies |
+
 ---
 
 https://docs.aws.amazon.com/pt_br/aws-certification/latest/developer-associate-02/developer-associate-02.html?refid=990e3b45-5609-4136-9ce5-fb7c47b9ec52#developer-associate-02-exam-content
