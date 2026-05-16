@@ -1,11 +1,11 @@
 # aws-certified-developer
 
-## Desenvolvimento com os serviços da AWS
+## 1. Desenvolvimento com os serviços da AWS
 
 ### Desenvolver código para aplicações hospedadas na AWS
 
-## Segurança 
+## 2. Segurança 
 
-## Implantação 
+## 3. Implantação 
 
-## Solução de problemas e otimização 
+## 4. Solução de problemas e otimização 
