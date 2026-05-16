@@ -21,6 +21,8 @@
   * Resilient and fault-tolerant code
   * Retry logic, circuit breaker, error handling for third-party integrations
 
+ ### Develop code for AWS Lambda
+
 ## 2. Segurança 
 
 ## 3. Implantação 
