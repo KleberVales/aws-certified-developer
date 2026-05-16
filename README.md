@@ -34,12 +34,15 @@
  ### Using data storage in application development
 
  - Data Storage
-   * DynamoDBPartition -> keys, cardinalidade, índices (GSI/LSI), Query vs Scan
-   * ConsistênciaModelos -> fortemente vs eventualmente consistentes
-   * Ciclo de vida dos dados -> S3 Lifecycle, TTL no DynamoDB
-   * Cache -> ElastiCache (Redis/Memcached), DAX
-   * Armazenamentos especializados -> OpenSearch Service
-   * Serialização -> JSON, protobuf, persistência
+
+| Sub-bloco | Tópicos | 
+|-----------|---------|
+| DynamoDB | Partition keys, cardinalidade, índices (GSI/LSI), Query vs Scan |
+| Consistência | Modelos fortemente vs eventualmente consistentes |
+| Ciclo de vida dos dados | S3 Lifecycle, TTL no DynamoDB |
+| Cache | ElastiCache (Redis/Memcached), DAX |
+| Armazenamentos especializados | OpenSearch Service |
+| Serialização | JSON, protobuf, persistência |
 
 ## 2. Segurança 
 
