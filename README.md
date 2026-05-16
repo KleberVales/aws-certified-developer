@@ -111,6 +111,8 @@
 | IaC Templates | AWS SAM templates, CloudFormation templates, updating existing stacks, deploying to multiple environments |
 | Environment Management | Dev / test / prod separation in API Gateway (stages), Lambda aliases and versions, container image tags, Amplify branches, Copilot environments, AppConfig runtime configs for dynamic deployments |
 
+💡 SAM vs CloudFormation is a classic exam pairing — SAM is a superset of CloudFormation optimized for serverless. Lambda aliases + traffic shifting are critical for deployment strategies.
+
 ### Deploy the code using AWS Continuous Integration and Continuous Delivery (CI/CD) services
 
 ## 4. Solução de problemas e otimização 
