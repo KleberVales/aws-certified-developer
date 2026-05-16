@@ -115,6 +115,13 @@
 
 ### Deploy the code using AWS Continuous Integration and Continuous Delivery (CI/CD) services
 
+- CI/CD Pipelines & Deployment Strategies
+
+| Sub-block | Topics |
+|-----------|--------|
+| CI/CD PipelineCode | Commit, CodeBuild, CodeDeploy, CodePipeline — committing code to trigger build/test/deploy actions; orchestrated workflows across environments; labels and branches for version/release management
+| Deployment Strategies | Blue/green, canary, rolling/continuous deployments; application rollbacks using existing strategies; Lambda deployment packages (ZIP vs container image); API Gateway stages and custom domains; Amazon Q Developer for generating automated tests |
+
 ## 4. Solução de problemas e otimização 
 
 ---
