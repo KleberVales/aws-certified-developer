@@ -31,6 +31,8 @@
    * Performance tuning (cold start, provisioned concurrency)
    * Real-time data processing
 
+ ### Using data storage in application development
+
 ## 2. Segurança 
 
 ## 3. Implantação 
