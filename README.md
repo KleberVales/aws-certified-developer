@@ -9,6 +9,11 @@
   * Stateful vs. Stateless
   * Tight vs. Loose coupling
   * Synchronous vs. Asynchronous
+    
+- Messaging, Events and Streaming
+  * Messaging services: SQS, SNS, EventBridge
+  * EventBridge: event-driven patterns
+  * Streaming data: Kinesis Data Streams, Kinesis Firehose
 
 ## 2. Segurança 
 
