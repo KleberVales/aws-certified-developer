@@ -91,6 +91,13 @@
  
 💡 This block is about getting your artifact ready before it ever touches a pipeline. AppConfig is frequently tested — know the difference between a configuration profile and a deployment strategy.
 
+- Testing in Development Environments
+  * Testing deployed code using AWS tools (SAM CLI sam local invoke, sam local start-api)
+  * Writing integration tests and mocking external API dependencies
+  * Testing via API Gateway development endpoints and stage configurations
+  * Deploying application stack updates to existing environments (e.g. SAM deploy to staging)
+  * Testing event-driven applications (simulating SQS, SNS, EventBridge payloads)
+
 ### Testing applications in development environments
 
 ### Automatizar testes de implantação
