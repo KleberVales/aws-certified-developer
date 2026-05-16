@@ -122,7 +122,7 @@
 | CI/CD PipelineCode | Commit, CodeBuild, CodeDeploy, CodePipeline — committing code to trigger build/test/deploy actions; orchestrated workflows across environments; labels and branches for version/release management
 | Deployment Strategies | Blue/green, canary, rolling/continuous deployments; application rollbacks using existing strategies; Lambda deployment packages (ZIP vs container image); API Gateway stages and custom domains; Amazon Q Developer for generating automated tests |
 
-## 4. Solução de problemas e otimização 
+## 4. Problem solving and optimization
 
 ---
 
