@@ -23,6 +23,14 @@
 
  ### Develop code for AWS Lambda
 
+ - AWS Lambda (background and performance)
+   * Configuration of functions (memory, timeout, handler, layers, runtime, extensions)
+   * Access to private resources in VPC
+   * Lifecycle, destinations, DLQ (Dead Letter Queue)
+   * Integration with other AWS services
+   * Performance tuning (cold start, provisioned concurrency)
+   * Real-time data processing
+
 ## 2. Segurança 
 
 ## 3. Implantação 
