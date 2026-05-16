@@ -55,6 +55,10 @@
   * Defining permissions for IAM principals (policies: identity-based, resource-based, boundaries)
  
 - Authentication & Authorization for Applications
+  * Federated access with Amazon Cognito (User Pools, Identity Pools) and IAM identity providers (SAML, OIDC)
+  * Protecting applications using bearer tokens (JWT, OAuth 2.0 flows)
+  * Application-level authorization for fine-grained access control (e.g. ABAC, custom authorizers in API Gateway)
+  * Service-to-service authentication in microservices architectures (IAM roles, service accounts, mTLS)
 
 ## 3. Implantação 
 
